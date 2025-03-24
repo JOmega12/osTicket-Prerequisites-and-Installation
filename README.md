@@ -29,14 +29,22 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
-<h3>Install A Windows Virtual Machine </h3>
+<h2>Install A Windows Virtual Machine </h3>
 
 - use your own username and password that you can remember
 
-<h2>Within the osTicket VM, download this installation <a href="https://drive.usercontent.google.com/download?id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD&export=download">here</a>
+<h2>Log into Virtual Machine</h2>
 
-</h2>
-- 
+<h2>Within the osTicket VM, download this installation <a href="https://drive.usercontent.google.com/download?id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD&export=download">here</a></h2>
+
+<h2>Enable IIS</h2>
+
+- Open IIS as an admin
+
+<h2>Register PHP from within IIS</h2>
+
+- Within IIS install 
+
 
 
 <br />
