@@ -45,6 +45,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Within IIS install 
 
+<h2>Install Rewrite Module</h2>
 
+<h2>Create a new directory</h2>
 
+<h2>Install "VC_redist.x86.exe"</h2>
 <br />
